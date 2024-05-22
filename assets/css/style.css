@@ -703,6 +703,7 @@ html, body {
     width: 250px;
     background-color: var(--bg-section-color);
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     font-family: var(--links-nav-color);
     font-weight: 700;
